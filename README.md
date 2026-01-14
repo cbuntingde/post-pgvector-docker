@@ -2,7 +2,7 @@
 
 This repository provides a Docker Compose configuration to run a stock PostgreSQL instance with the `pgvector` extension pre-installed.
 
-It is specifically designed to provide a vector database backend for the [post-pgvector-mcp](https://github.com/design-rules/post-pgvector-mcp) server (or any other application requiring pgvector).
+It is specifically designed to provide a vector database backend for the [post-pgvector-mcp](https://github.com/cbuntingde/post-pgvector-mcp) server (or any other application requiring pgvector).
 
 ## Connection Details
 
